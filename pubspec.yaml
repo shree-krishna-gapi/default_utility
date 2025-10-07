@@ -1,6 +1,6 @@
 name: default_utility
 description: A Flutter package providing predefined and customizable Snackbar (toast message) and stateful dialog widgets without needing context.
-version: 0.0.1
+version: 0.0.3+1
 homepage: https://github.com/shree-krishna-gapi/default_utility
 
 environment:
