@@ -1,8 +1,7 @@
 name: default_utility
 description: A Flutter package providing predefined and customizable Snackbar (toast message) and stateful dialog widgets without needing context.
-author: Gapi
 version: 0.0.1
-homepage:
+homepage: https://github.com/shree-krishna-gapi/default_utility
 
 environment:
   sdk: ^3.9.2
