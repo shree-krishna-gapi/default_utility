@@ -1,4 +1,4 @@
-## 0.0.3+1
+## 0.0.4
 
 - Added screenshot to README.md to show example usage.
 - Improved documentation.
